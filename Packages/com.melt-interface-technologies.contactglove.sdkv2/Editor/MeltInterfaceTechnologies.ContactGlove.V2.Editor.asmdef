@@ -1,0 +1,5 @@
+{
+  "name": "MeltInterfaceTechnologies.ContactGlove.V2.Editor",
+  "references": ["MeltInterfaceTechnologies.ContactGlove.V2.Core", "MeltInterfaceTechnologies.ContactGlove.V2.Unity"],
+  "includePlatforms": ["Editor"]
+}

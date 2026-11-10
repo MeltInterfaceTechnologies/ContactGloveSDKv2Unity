@@ -1,0 +1,5 @@
+{
+  "name": "MeltInterfaceTechnologies.ContactGlove.V2.Unity",
+  "rootNamespace": "MeltInterfaceTechnologies.ContactGlove.V2.Unity",
+  "references": ["MeltInterfaceTechnologies.ContactGlove.V2.Core"]
+}

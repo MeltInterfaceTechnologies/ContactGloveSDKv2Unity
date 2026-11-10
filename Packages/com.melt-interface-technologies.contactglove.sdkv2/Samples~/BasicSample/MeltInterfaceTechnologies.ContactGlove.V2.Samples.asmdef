@@ -1,0 +1,4 @@
+{
+  "name": "MeltInterfaceTechnologies.ContactGlove.V2.Samples",
+  "references": ["MeltInterfaceTechnologies.ContactGlove.V2.Core", "MeltInterfaceTechnologies.ContactGlove.V2.Unity", "Unity.ugui"]
+}

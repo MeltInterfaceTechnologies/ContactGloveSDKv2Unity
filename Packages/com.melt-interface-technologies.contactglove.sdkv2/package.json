@@ -1,0 +1,27 @@
+{
+  "name": "com.melt-interface-technologies.contactglove.sdkv2",
+  "version": "1.0.0",
+  "license": "Apache-2.0",
+  "displayName": "ContactGlove Unity SDK V2",
+  "description": "Managed Unity client for DivingStation Protocol v2. Supports ContactGlove3 Pro.",
+  "unity": "6000.3",
+  "author": {
+    "name": "Melt Interface Technologies"
+  },
+  "dependencies": {
+    "com.unity.modules.physics": "1.0.0",
+    "com.unity.ugui": "2.0.0",
+    "com.unity.modules.imgui": "1.0.0",
+    "com.unity.modules.imageconversion": "1.0.0"
+  },
+  "samples": [
+    {
+      "displayName": "Basic Sample",
+      "description": "Includes the shared UI and diagnostic skeleton display.",
+      "path": "Samples~/BasicSample"
+    }
+  ],
+  "documentationUrl": "https://docs.melt-interface-technologies.com/en/docs/contact/sdks/unity-v2",
+  "changelogUrl": "https://github.com/MeltInterfaceTechnologies/ContactGloveSDKv2Unity/blob/v1.0.0/CHANGELOG.md",
+  "licensesUrl": "https://github.com/MeltInterfaceTechnologies/ContactGloveSDKv2Unity/blob/v1.0.0/LICENSE"
+}
